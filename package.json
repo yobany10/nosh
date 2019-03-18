@@ -11,18 +11,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/richardcyrus/nosh.git"
+    "url": "git+https://github.com/yobany10/nosh.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/richardcyrus/nosh/issues"
+    "url": "https://github.com/yobany10/nosh/issues"
   },
   "engines": {
     "node": "11.7.0"
   },
-  "homepage": "https://github.com/richardcyrus/nosh#readme",
+  "homepage": "https://github.com/yobany10/nosh",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.6.3",
     "@ladjs/bootstrap-social": "^7.0.2",
